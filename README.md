@@ -42,4 +42,4 @@ The dashboard includes the following interactive visuals:
 - **Map with Number of Car Offers**: Shows the geographical distribution of car offers.
 
 ## Data
-Source: [data](https://www.kaggle.com/datasets/aleksandrglotov/car-prices-poland "Car Prices - Kaggle Data")
+Source: [Car Prices - Kaggle Data](https://www.kaggle.com/datasets/aleksandrglotov/car-prices-poland)
