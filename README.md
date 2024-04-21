@@ -1,6 +1,6 @@
 # Power BI Car Price Dashboard
 
-![Desktop_Screenshot](https://github.com/FilipK206/car_prices_dashboard/assets/109867923/9734d2c8-897e-4f22-9114-4353d45fda1f)
+![Desktop_Screenshot](https://github.com/FilipK206/car_prices_dashboard/assets/109867923/3f224e51-45c3-4064-b43b-8d10321190b3)
 
 
 ## Overview
@@ -19,13 +19,13 @@ To view the dashboard, you'll need:
 - Power BI Desktop for the desktop version.
 - Any QR code scanner app for the mobile version.
 
-![Mobile_Screenshot](https://github.com/FilipK206/car_prices_dashboard/assets/109867923/e2857fab-03f7-4cc9-afe5-61d038e2f919)
+![Mobile_Screenshot](https://github.com/FilipK206/car_prices_dashboard/assets/109867923/f327fa38-b0d1-44b2-92cd-34b0932e9b2e)
 
 
 ## Installation
 For the desktop version:
-1. Download the Power BI file from the provided link.
-2. Open the file in Power BI Desktop.
+1. Download the Power BI Desktop.
+2. Open the file `Car_Prices_Dashboard.pbix` in Power BI Desktop.
 
 ## Usage
 1. For the desktop version, open the Power BI file in Power BI Desktop.
@@ -36,8 +36,10 @@ For the desktop version:
 ## Visuals
 The dashboard includes the following interactive visuals:
 - **Average of Price by Year**: Shows the average price of cars over the years.
-- **Count of Cars by Fuel**: Displays the distribution of cars by fuel type.
-- **Count of Model by Make**: Illustrates the distribution of car models by make.
-- **Average of Price by Make**: Provides insights into the average price of cars by make.
+- **Count of Cars by Fuel Type**: Displays the distribution of cars by fuel type.
+- **Count of Models by Brand**: Illustrates the distribution of car models by brand.
+- **Average of Price by Brand**: Provides insights into the average price of cars by brand.
 - **Map with Number of Car Offers**: Shows the geographical distribution of car offers.
 
+## Data
+Source: [data](https://www.kaggle.com/datasets/aleksandrglotov/car-prices-poland "Car Prices - Kaggle Data")
